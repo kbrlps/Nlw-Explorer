@@ -6,7 +6,7 @@
 
 projeto construído no evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://kbrlps.github.io/nlw/)
+[🔗 Clique aqui para acessar](https://kbrlps.github.io/nlw-explorer/)
 
 ## 🛠 Tecnologias 
 
